@@ -2,7 +2,7 @@
 
 Builds an Elasticsearch container with the plugins expected by kuma
 
-- Elasticsearch version: 7.10.2
+- Elasticsearch version: 7.17.23
 
 ## Plugins
 
